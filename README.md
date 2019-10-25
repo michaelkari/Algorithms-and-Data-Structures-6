@@ -1,1 +1,2 @@
-# W2019-Algorithms-and-Data-Structures-6
+# COE428 Lab 6
+This program implements the storage method of heaping and stacking.
